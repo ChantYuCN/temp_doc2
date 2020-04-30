@@ -1,0 +1,282 @@
+4c4
+< enum-compat===0.0.2
+---
+> enum-compat===0.0.3
+17c17
+< rtslib-fb===2.1.69
+---
+> rtslib-fb===2.1.71
+52c52
+< tabulate===0.8.6
+---
+> tabulate===0.8.7
+82c82
+< munch===2.3.2
+---
+> munch===2.5.0
+116c116
+< skydive-client===0.5.0
+---
+> skydive-client===0.7.0
+129c129
+< nosehtmloutput===0.0.5
+---
+> nosehtmloutput===0.0.7
+134c134
+< Mako===1.1.0
+---
+> Mako===1.1.2
+137c137
+< thriftpy2===0.4.8
+---
+> thriftpy2===0.4.11;python_version=='2.7'
+159c159
+< psycopg2===2.8.3
+---
+> psycopg2===2.8.5
+181c181
+< simplejson===3.16.0
+---
+> simplejson===3.17.0
+203c203
+< python-glanceclient===3.1.0;python_version=='3.8'
+---
+> python-glanceclient===3.1.1;python_version=='3.8'
+244c244
+< thrift===0.11.0
+---
+> thrift===0.13.0
+261c261
+< pyroute2===0.5.12
+---
+> pyroute2===0.5.11
+265c265
+< pyudev===0.21.0
+---
+> pyudev===0.22.0
+295c295
+< PyKMIP===0.9.1
+---
+> PyKMIP===0.10.0
+299,303c299,303
+< tornado===4.5.3
+< tornado===4.5.3
+< tornado===4.5.3
+< tornado===4.5.3
+< pycparser===2.19
+---
+> tornado===5.1.1;python_version=='2.7'
+> tornado===6.0.4;python_version=='3.6'
+> tornado===6.0.4;python_version=='3.7'
+> tornado===6.0.4;python_version=='3.8'
+> pycparser===2.20
+305c305
+< PyYAML===5.3
+---
+> PyYAML===5.3.1
+315c315
+< pycryptodomex===3.9.0
+---
+> pycryptodomex===3.9.7
+334,337c334,337
+< libvirt-python===4.7.0
+< libvirt-python===4.7.0
+< libvirt-python===4.7.0
+< libvirt-python===4.7.0
+---
+> libvirt-python===5.10.0;python_version=='2.7'
+> libvirt-python===6.1.0;python_version=='3.6'
+> libvirt-python===6.1.0;python_version=='3.7'
+> libvirt-python===6.1.0;python_version=='3.8'
+362c362
+< XStatic-Hogan===2.0.0.2
+---
+> XStatic-Hogan===2.0.0.3
+380c380
+< XStatic-JQuery.quicksearch===2.0.3.1
+---
+> XStatic-JQuery.quicksearch===2.0.3.2
+387c387
+< XStatic-JQuery-Migrate===1.2.1.1
+---
+> XStatic-JQuery-Migrate===1.2.1.2
+393c393
+< tinyrpc===1.0.3
+---
+> tinyrpc===1.0.4
+425,426c425,426
+< hiredis===1.0.0
+< google-api-python-client===1.7.11
+---
+> hiredis===1.0.1
+> google-api-python-client===1.8.0
+448c448
+< SQLAlchemy-Utils===0.34.2
+---
+> SQLAlchemy-Utils===0.36.3
+454,455c454,455
+< pyperclip===1.7.0
+< cassandra-driver===3.19.0
+---
+> pyperclip===1.8.0
+> cassandra-driver===3.23.0
+467c467
+< nodeenv===1.3.3
+---
+> nodeenv===1.3.5
+489c489
+< ujson===1.35
+---
+> ujson===2.0.3
+531c531
+< exabgp===4.1.2
+---
+> exabgp===4.2.6
+575c575
+< psutil===5.6.3
+---
+> psutil===5.7.0
+587,588c587,588
+< XStatic-JQuery.TableSorter===2.14.5.1
+< pifpaf===2.2.2
+---
+> XStatic-JQuery.TableSorter===2.14.5.2
+> pifpaf===2.4.0
+599,602c599,602
+< python-cinderclient===4.3.0
+< python-cinderclient===4.3.0
+< python-cinderclient===4.3.0
+< python-cinderclient===4.3.0
+---
+> python-cinderclient===5.0.1;python_version=='2.7'
+> python-cinderclient===7.0.0;python_version=='3.6'
+> python-cinderclient===7.0.0;python_version=='3.7'
+> python-cinderclient===7.0.0;python_version=='3.8'
+606c606
+< XStatic-Spin===1.2.5.2
+---
+> XStatic-Spin===1.2.5.3
+616,617c616,617
+< opentracing===2.2.0
+< XStatic-Rickshaw===1.5.0.0
+---
+> opentracing===2.3.0
+> XStatic-Rickshaw===1.5.1.0
+628c628
+< PuLP===1.6.10
+---
+> PuLP===2.1
+692,693c692,693
+< tempest===23.0.0
+< django-floppyforms===1.7.0
+---
+> tempest===24.0.0
+> django-floppyforms===1.8.0
+709,710c709,710
+< httplib2===0.13.1
+< bottle===0.12.17
+---
+> httplib2===0.17.2
+> bottle===0.12.18
+718c718
+< dogpile.cache===0.7.1
+---
+> dogpile.cache===0.9.0
+726c726
+< WSME===0.9.3
+---
+> WSME===0.10.0
+766,770c766,770
+< stomp.py===4.1.22
+< stomp.py===4.1.22
+< stomp.py===4.1.22
+< stomp.py===4.1.22
+< xattr===0.9.6
+---
+> stomp.py===4.1.23;python_version=='2.7'
+> stomp.py===6.0.0;python_version=='3.6'
+> stomp.py===6.0.0;python_version=='3.7'
+> stomp.py===6.0.0;python_version=='3.8'
+> xattr===0.9.7
+809c809
+< yappi===1.0
+---
+> yappi===1.2.3
+815c815
+< wrapt===1.11.2
+---
+> wrapt===1.12.1
+824c824
+< oslo.policy===3.0.3;python_version=='3.8'
+---
+> oslo.policy===3.1.0;python_version=='3.8'
+833c833
+< pyrsistent===0.15.4
+---
+> pyrsistent===0.16.0
+842c842
+< future===0.17.1
+---
+> future===0.18.2
+845c845
+< jaeger-client===4.1.0
+---
+> jaeger-client===4.3.0
+866c866
+< etcd3===0.10.0
+---
+> etcd3===0.12.0
+868c868
+< XStatic-Bootstrap-Datepicker===1.3.1.0
+---
+> XStatic-Bootstrap-Datepicker===1.4.0.0
+887a888
+> ceilometer===14.0.0.0rc1
+926c927
+< alembic===1.1.0
+---
+> alembic===1.4.2
+944c945
+< smmap2===2.0.5
+---
+> smmap2===3.0.1;python_version=='2.7'
+957c958
+< marathon===0.11.0
+---
+> marathon===0.12.0
+997c998
+< sysv-ipc===1.0.0
+---
+> sysv-ipc===1.0.1
+1005,1035d1005
+< amqplib===1.0.2
+< cgtsclient===1.0
+< lz4===0.9.0
+< msgpack-python===0.4.8
+< networking-sfc===8.0.0.0b2
+< openshift===0.8.6
+< pika-pool===0.1.3
+< positional===1.1.2
+< pyScss2===1.4.0
+< python-string-utils===0.6.0
+< thriftpy===0.3.9
+< uWSGI===2.0.17.1
+< api-proxy===1.0.0
+< cgcs-patch===1.0
+< controllerconfig===1.0.0
+< distributedcloud===1.0.0
+< distributedcloud-client===1.0.0
+< fm===1.0.0
+< fm-api===1.0.0
+< fmclient===1.0
+< fm-core===1.0
+< nfv-client===1.0.0
+< nfv-tools===1.0.0
+< nfv-vim===1.0.0
+< python-cephclient===13.2.2.0
+< sm-client===1.0.0
+< starlingx-dashboard===1.0
+< sysinv===1.0
+< tsconfig===1.0.0
+< windriver-nfv-common-plugins===1.0.0
+< windriver-nfv-plugins===1.0.0
